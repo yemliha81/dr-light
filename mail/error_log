@@ -1,0 +1,2 @@
+[12-Nov-2021 12:50:55 Europe/Istanbul] PHP Warning:  fputs() expects parameter 1 to be resource, int given in /home/u9615352/public_html/testurl/mail/class.smtp.php on line 212
+[07-May-2022 13:53:40 Europe/Istanbul] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/drlight3/public_html/mail/class.phpmailer.php on line 1209

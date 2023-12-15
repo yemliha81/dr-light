@@ -1,0 +1,2 @@
+[05-May-2022 03:59:07 Europe/Istanbul] PHP Warning:  fopen(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/drlight3/public_html/test.php on line 2
+[05-May-2022 03:59:07 Europe/Istanbul] PHP Warning:  fopen(http://anilgumus.com/drlight/html/drlight-html.zip): failed to open stream: no suitable wrapper could be found in /home/drlight3/public_html/test.php on line 2
